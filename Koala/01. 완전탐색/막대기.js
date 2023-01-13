@@ -1,7 +1,3 @@
-
-
-
-
 const input = require('fs').readFileSync('/dev/stdin').toString().trim();
 const stickLength = [64, 32, 16, 8, 4, 2, 1];
 let X = Number(input);
